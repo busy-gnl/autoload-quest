@@ -11,5 +11,7 @@
             "email": "vallantjesse@live.com"
         }
     ],
-    "require": {}
+    "require": {
+        "gipetto/cowsay": "^1.1"
+    }
 }
