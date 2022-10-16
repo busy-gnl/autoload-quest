@@ -2,7 +2,7 @@
     "name": "composer/app",
     "autoload": {
         "psr-4": {
-            "Composer\\App\\": "src/"
+            "App\\": "src/"
         }
     },
     "authors": [
