@@ -1,0 +1,15 @@
+{
+    "name": "composer/app",
+    "autoload": {
+        "psr-4": {
+            "Composer\\App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "busy-gnl",
+            "email": "vallantjesse@live.com"
+        }
+    ],
+    "require": {}
+}
